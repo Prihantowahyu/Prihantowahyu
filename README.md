@@ -21,7 +21,7 @@
 
 ## 👋 Tentang Saya
 
-Saya **Wahyu Prihanto, S.Kom**, guru **Teknik Komputer dan Jaringan (TKJ)** di **SMK Diponegoro Tumpang, Malang**. Saya memadukan pekerjaan lapangan (jaringan, MikroTik, Linux server) dengan pengembangan aplikasi, supaya kebutuhan sekolah sehari-hari bisa dilayani sistem yang andal.
+Saya **Wahyu Prihanto**, guru **Teknik Komputer dan Jaringan (TKJ)** di **SMK Diponegoro Tumpang, Malang**. Saya memadukan pekerjaan lapangan (jaringan, MikroTik, Linux server) dengan pengembangan aplikasi, supaya kebutuhan sekolah sehari-hari bisa dilayani sistem yang andal.
 
 - 🏫 Mengajar TKJ dan menjabat Koordinator Tatib
 - 🌐 Setting MikroTik, VLAN, dan jaringan sekolah
