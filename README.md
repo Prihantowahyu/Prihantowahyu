@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2557,50:1b3a7a,100:2c5364&height=210&section=header&text=Wahyu%20Prihanto&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Guru%20TKJ%20%E2%80%A2%20Spesialis%20Jaringan%20%26%20Developer%20Sistem%20Sekolah&descAlignY=58&descSize=17" alt="header" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4DA3FF&center=true&vCenter=true&width=640&lines=Guru+TKJ+SMK+Diponegoro+Tumpang;MikroTik+%7C+VLAN+%7C+Linux+Server;Pengembang+SIMPATI+%26+PPDB+Online;Membangun+aplikasi+untuk+sekolah" alt="typing" />
 
 <br/>
