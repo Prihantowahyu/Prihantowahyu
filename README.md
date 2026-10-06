@@ -22,6 +22,14 @@
 | **SIMPATI** | Sistem informasi manajemen peserta didik: PWA, biometrik WebAuthn, 6 level akses | [Buka](https://simpatismkdiponegorotumpang.id/auth/login) |
 | **PPDB Online** | Portal pendaftaran peserta didik baru, multi-step form dan slip registrasi | [Buka](https://ppdb.simpatismkdiponegorotumpang.id/index.php) |
 
+## 💬 Kenalan Singkat
+
+<div align="center">
+
+<img src="assets/chat-intro.svg" width="560" alt="Animasi dialog perkenalan Wahyu Prihanto" />
+
+</div>
+
 ## 🚀 Repositori Pilihan
 
 | Repo | Deskripsi | Demo |
